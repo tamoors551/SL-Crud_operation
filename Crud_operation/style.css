@@ -1,0 +1,48 @@
+
+.main_title{
+
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    letter-spacing: 2px;
+    font-weight: 500;
+
+
+
+
+}
+
+ .box1 h1 {
+
+float: left;
+
+
+}
+
+
+.box1 button {
+
+
+float: right;
+}
+
+.container{
+
+margin-top: 50px ;
+
+}
+
+h5 {
+
+    text-align: center;
+    color: red;
+
+
+
+}
+
+
+
+/* for image css */
+
